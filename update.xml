@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="nbpdkgackkmhhfmolkllhaajdlgnkaec">
-    <updatecheck codebase="https://PUT-YOUR-GITHUB-USERNAME.github.io/category-checker-extension/emergency-category-checker.crx" version="1.5" prodversionmin="64.0.3242" />
+    <updatecheck codebase="https://rescue1122ryk.github.io/Category-checker-extension/emergency-category-checker.crx" version="1.5" prodversionmin="64.0.3242" />
   </app>
 </gupdate>
