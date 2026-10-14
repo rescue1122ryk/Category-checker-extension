@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "category-checker@local": {
+      "updates": [
+        {
+          "version": "1.5",
+          "update_link": "https://PUT-YOUR-GITHUB-USERNAME.github.io/category-checker-extension/emergency-category-checker-1.5.xpi"
+        }
+      ]
+    }
+  }
+}
