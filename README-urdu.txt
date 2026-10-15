@@ -5,7 +5,7 @@ Repo: rescue1122ryk/Category-checker-extension  (Settings > Pages ON hona chahiy
 Repo ke root mein yeh files rakhein:
   1) categories-remote.json   <- categories badalni hon to sirf isay edit karein (auto update)
   2) updates.json             <- Firefox ke liye (sirf naya version sign karne par badalta hy)
-  3) emergency-category-checker-2.7.xpi  <- signed xpi (sign-firefox.bat se bani)
+  3) emergency-category-checker-2.8.xpi  <- signed xpi (sign-firefox.bat se bani)
 
 CATEGORIES BADALNA (signing ki zaroorat nahi)
   - GitHub par categories-remote.json kholein > pencil (Edit) > badlav karein > Commit changes.
@@ -15,5 +15,5 @@ CATEGORIES BADALNA (signing ki zaroorat nahi)
   - Agar file mein ghalti ho gayi to extension purani sahi copy chalata rahe ga (kuch toot'ta nahi).
 
 CODE BADALNA (content.js / background.js / manifest.json)
-  - Version badhayein (2.7 -> 2.7), Firefox ke liye sign-firefox.bat chalayein, naya xpi + updates.json upload karein.
+  - Version badhayein (2.8 -> 2.8), Firefox ke liye sign-firefox.bat chalayein, naya xpi + updates.json upload karein.
   - Chrome/Edge: files badal kar update.bat ya reload.

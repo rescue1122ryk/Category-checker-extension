@@ -7,11 +7,6 @@
       "Chest Pain",
       "CVA/Stroke",
       "Asthma",
-      "Severe Trauma",
-      "Bleeding",
-      "Multiple fractures",
-      "Severe Trauma",
-      "Minor Injuries",
       "Spinal Injury",
       "Delivery Case",
       "Gyne Problem",
@@ -85,6 +80,25 @@
     "statusColumn": "Emergency Status",
     "ignoreStatus": [
       "discarded"
+    ]
+  },
+  "typeCategories": {
+    "Life Threatening": [],
+    "Urgent": [
+      "Fire",
+      "Fall",
+      "Structural Collapse",
+      "Crime",
+      "Explosions",
+      "Drowning",
+      "Flood Emergency"
+    ],
+    "Less Urgent": [],
+    "Non-emergency": [
+      "Community",
+      "Industrial Inspection",
+      "High Raised Building Inspection",
+      "Mock Exercise"
     ]
   },
   "aliases": {
